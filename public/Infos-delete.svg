@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182.479" height="141.704" viewBox="0 0 182.479 141.704">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_18971" data-name="Tracé 18971" d="M-347.216,245.153c-17.426,8.989-22.766,5.684-36.429,9.057-7.147.7-16.107,8.766-18.761,11.645a64.74,64.74,0,0,1-47.74,20.916,64.774,64.774,0,0,1-64.846-64.7A64.742,64.742,0,0,1-471.331,160.9c6.638-2.289,34.36-5.322,41.884-.164A64.689,64.689,0,0,1-411.51,170.1c2.77,2.054,48.216.51,51.893,14.486,6.1,14.739-.193,15.981-4.857,18.2-8.429,2.12,11.723,5.727,18.034,17.764C-342.707,234.055-344.742,243.185-347.216,245.153Z" transform="translate(514.992 -157.903)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#424242"/>
+      <stop offset="0.125" stop-color="#363636"/>
+      <stop offset="0.279" stop-color="#212121"/>
+      <stop offset="0.569" stop-color="#616161"/>
+      <stop offset="0.683" stop-color="#545454"/>
+      <stop offset="0.887" stop-color="#353535"/>
+      <stop offset="1" stop-color="#212121"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.231" y1="0.625" x2="1.16" y2="0.416" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="-0.26" y1="0.84" x2="1.046" y2="0.144" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5f5f5"/>
+      <stop offset="0.119" stop-color="silver"/>
+      <stop offset="0.226" stop-color="#979797"/>
+      <stop offset="0.311" stop-color="#7e7e7e"/>
+      <stop offset="0.362" stop-color="#757575"/>
+      <stop offset="0.402" stop-color="#7c7c7c"/>
+      <stop offset="0.462" stop-color="#929292"/>
+      <stop offset="0.536" stop-color="#b4b4b4"/>
+      <stop offset="0.619" stop-color="#e4e4e4"/>
+      <stop offset="0.645" stop-color="#f5f5f5"/>
+      <stop offset="0.697" stop-color="#eaeaea"/>
+      <stop offset="0.787" stop-color="#ccc"/>
+      <stop offset="0.906" stop-color="#9d9d9d"/>
+      <stop offset="0.996" stop-color="#757575"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="3.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#212121"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="3.26" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="-0.26" y1="0.84" x2="1.046" y2="0.144" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-11" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="0.854" y1="-0.058" x2="0.334" y2="0.6" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="0.854" y1="-0.058" x2="0.334" y2="0.6" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#78909c"/>
+      <stop offset="0.173" stop-color="#6c8490"/>
+      <stop offset="0.414" stop-color="#546e7a"/>
+      <stop offset="0.565" stop-color="#4b636d"/>
+      <stop offset="0.836" stop-color="#35464e"/>
+      <stop offset="1" stop-color="#263238"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-21" x1="-775.329" y1="0.5" x2="-774.329" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-22" x1="-1010.764" y1="0.5" x2="-1009.764" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-24" x1="-989.875" y1="0.5" x2="-988.875" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-25" x1="-1290.633" y1="0.5" x2="-1289.633" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-27" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-28" x1="-339.373" y1="-0.058" x2="-339.894" y2="0.6" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-29" x1="-357.838" y1="0.5" x2="-356.838" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-30" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-31" x1="-228.391" y1="-0.058" x2="-228.911" y2="0.6" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-32" x1="-241.077" y1="0.5" x2="-240.077" y2="0.5" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-33" x1="-830.795" y1="0.5" x2="-829.795" y2="0.5" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-34" x1="-881.572" y1="0.84" x2="-880.267" y2="0.144" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-35" x1="-881.287" y1="0.5" x2="-880.287" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-36" x1="-3580.912" y1="0.5" x2="-3579.912" y2="0.5" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.5" r="3.097" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="0.5" cy="0.5" r="3.26" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-37" x1="0.059" y1="-0.118" x2="0.453" y2="0.427" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-38" x1="-0.652" y1="0.512" x2="1.753" y2="0.487" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-40" x1="-0.032" y1="0.956" x2="1.299" y2="-0.601" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b3e5fc"/>
+      <stop offset="0.143" stop-color="#bde8fc"/>
+      <stop offset="0.392" stop-color="#daf2fd"/>
+      <stop offset="0.438" stop-color="#e1f5fe"/>
+      <stop offset="0.683" stop-color="#4377bd"/>
+      <stop offset="0.996" stop-color="#80d8fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-42" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-43" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-44" x1="0.683" y1="-0.201" x2="0.194" y2="0.749" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-46" x1="0.818" y1="0.026" x2="0.156" y2="0.996" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-50" x1="1.624" y1="-0.051" x2="0.194" y2="0.561" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-51" x1="-1.227" y1="2.028" x2="1.227" y2="-0.116" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#424242"/>
+      <stop offset="0.125" stop-color="#363636"/>
+      <stop offset="0.279" stop-color="#212121"/>
+      <stop offset="0.56" stop-color="#9e9e9e"/>
+      <stop offset="0.615" stop-color="#919191"/>
+      <stop offset="0.712" stop-color="#727272"/>
+      <stop offset="0.759" stop-color="#616161"/>
+      <stop offset="0.822" stop-color="#545454"/>
+      <stop offset="0.937" stop-color="#353535"/>
+      <stop offset="1" stop-color="#212121"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-53" x1="-0.26" y1="0.84" x2="1.046" y2="0.144" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-55" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-56" x1="-0.48" y1="0.021" x2="0.851" y2="0.567" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-57" x1="-0.288" y1="-0.304" x2="0.599" y2="0.747" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-58" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-59" x1="-270.23" y1="648.921" x2="-269.187" y2="648.921" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-60" x1="-346.043" y1="830.716" x2="-345" y2="830.716" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-61" x1="-489.329" y1="1174.73" x2="-488.287" y2="1174.73" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-62" x1="-2559.11" y1="-721.301" x2="-2558.067" y2="-721.301" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-63" x1="-3276.635" y1="-923.637" x2="-3275.592" y2="-923.637" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-64" x1="-4632.27" y1="-1306.568" x2="-4631.227" y2="-1306.568" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Infos" transform="translate(11.874)">
+    <ellipse id="Ellipse_204" data-name="Ellipse 204" cx="64.846" cy="64.703" rx="64.846" ry="64.703" transform="translate(0 0)" fill="#afded6"/>
+    <ellipse id="Ellipse_205" data-name="Ellipse 205" cx="40.721" cy="40.632" rx="40.721" ry="40.632" transform="translate(12.157 36.409)" fill="#263238" opacity="0.5"/>
+    <g id="Groupe_937" data-name="Groupe 937" transform="translate(0 0.537)">
+      <g id="Groupe_936" data-name="Groupe 936" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g id="Drone" transform="translate(7.481 29.167)">
+          <path id="Tracé_20266" data-name="Tracé 20266" d="M2987.508,641.823l8.368,18.884,4.184.5-8.535-20.191Z" transform="translate(-2966.468 -600.698)" fill="url(#linear-gradient)"/>
+          <path id="Tracé_20267" data-name="Tracé 20267" d="M2999.19,661.209l1.088-2.008-7.949-18.183h-1.674Z" transform="translate(-2965.598 -600.698)" fill="url(#linear-gradient)"/>
+          <path id="Tracé_20268" data-name="Tracé 20268" d="M2999.19,661.209l1.088-2.008-7.949-18.183h-1.674Z" transform="translate(-2965.598 -600.698)" opacity="0.8" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Tracé_20269" data-name="Tracé 20269" d="M3026.6,622.628l6.984-1.182,2.2,9.189h-7.28Z" transform="translate(-2955.69 -606.093)" fill="url(#linear-gradient-4)"/>
+          <path id="Tracé_20270" data-name="Tracé 20270" d="M3052.731,622.628l-6.984-1.182-2.2,9.189h7.28Z" transform="translate(-2951.015 -606.093)" fill="url(#linear-gradient)"/>
+          <g id="Groupe_1650" data-name="Groupe 1650" transform="translate(18.824 0.272)">
+            <path id="Tracé_20271" data-name="Tracé 20271" d="M3012.91,620.918c0,1.953-11.047,1.953-11.047,0V615.4c0,.781,11.047.781,11.047,0Z" transform="translate(-2981.325 -608.032)" fill="url(#linear-gradient-6)"/>
+            <path id="Tracé_20272" data-name="Tracé 20272" d="M3012.91,615.512c0,.355-2.474.642-5.524.642s-5.522-.287-5.522-.642,2.473-.641,5.522-.641S3012.91,615.158,3012.91,615.512Z" transform="translate(-2981.325 -608.177)" fill="url(#linear-gradient-7)"/>
+            <path id="Tracé_20273" data-name="Tracé 20273" d="M3007.845,615.813c0,.3-2.72.3-2.72,0l.461-4.352h1.8Z" transform="translate(-2980.424 -609.119)" fill="url(#linear-gradient-8)"/>
+            <g id="Groupe_1649" data-name="Groupe 1649">
+              <path id="Tracé_20274" data-name="Tracé 20274" d="M2985.772,609.875c-.07.659,11.529,2.42,25.905,3.935s26.088,2.208,26.157,1.548-11.529-2.42-25.905-3.935S2985.841,609.216,2985.772,609.875Z" transform="translate(-2985.772 -609.626)" fill="url(#radial-gradient)"/>
+              <path id="Tracé_20275" data-name="Tracé 20275" d="M2985.791,615.165c.065.66,11.781.04,26.167-1.384s25.994-3.113,25.929-3.771-11.78-.04-26.166,1.384S2985.726,614.507,2985.791,615.165Z" transform="translate(-2985.766 -609.593)" fill="url(#radial-gradient-2)"/>
+            </g>
+          </g>
+          <g id="Groupe_1652" data-name="Groupe 1652" transform="translate(101.673)">
+            <path id="Tracé_20276" data-name="Tracé 20276" d="M3077.862,620.7c0,1.953-11.045,1.953-11.045,0v-5.523c0,.781,11.045.781,11.045,0Z" transform="translate(-3046.28 -607.818)" fill="url(#linear-gradient-9)"/>
+            <ellipse id="Ellipse_236" data-name="Ellipse 236" cx="5.523" cy="0.642" rx="5.523" ry="0.642" transform="translate(20.538 6.694)" fill="url(#linear-gradient)"/>
+            <path id="Tracé_20277" data-name="Tracé 20277" d="M3072.8,615.6c0,.3-2.72.3-2.72,0l.459-4.352h1.8Z" transform="translate(-3045.378 -608.905)" fill="url(#linear-gradient-11)"/>
+            <g id="Groupe_1651" data-name="Groupe 1651" transform="translate(0)">
+              <path id="Tracé_20278" data-name="Tracé 20278" d="M3050.726,609.662c-.071.659,11.529,2.42,25.905,3.934s26.088,2.208,26.157,1.549-11.529-2.42-25.906-3.935S3050.8,609,3050.726,609.662Z" transform="translate(-3050.726 -609.413)" fill="url(#radial-gradient)"/>
+              <path id="Tracé_20279" data-name="Tracé 20279" d="M3050.745,614.952c.065.66,11.781.04,26.167-1.383s25.995-3.113,25.929-3.771-11.78-.04-26.166,1.383S3050.68,614.294,3050.745,614.952Z" transform="translate(-3050.72 -609.379)" fill="url(#radial-gradient-2)"/>
+            </g>
+          </g>
+          <g id="Groupe_1653" data-name="Groupe 1653" transform="translate(40.49 14.345)">
+            <path id="Tracé_20280" data-name="Tracé 20280" d="M3002.758,621.285l6.53,14.736,3.265.392-6.66-15.756Z" transform="translate(-3002.758 -620.657)" fill="url(#linear-gradient)"/>
+            <path id="Tracé_20281" data-name="Tracé 20281" d="M3011.874,636.413l.849-1.567-6.2-14.189h-1.306Z" transform="translate(-3002.079 -620.657)" fill="url(#linear-gradient)"/>
+            <path id="Tracé_20282" data-name="Tracé 20282" d="M3011.874,636.413l.849-1.567-6.2-14.189h-1.306Z" transform="translate(-3002.079 -620.657)" opacity="0.8" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <g id="Groupe_1654" data-name="Groupe 1654" transform="translate(58.87 20.482)">
+            <path id="Tracé_20283" data-name="Tracé 20283" d="M3019.353,634.107l26.147-7.631-5.218-1.01-23.117,5.723Z" transform="translate(-3017.165 -625.467)" fill="url(#linear-gradient-15)"/>
+            <path id="Tracé_20284" data-name="Tracé 20284" d="M3018.879,633.889v3.2l26.933-6.9-.786-3.928Z" transform="translate(-3016.691 -625.248)" fill="url(#linear-gradient)"/>
+          </g>
+          <path id="Tracé_20285" data-name="Tracé 20285" d="M2996.475,641.532l38.995-11.38-7.782-1.506-34.476,8.535Z" transform="translate(-2964.903 -604.108)" fill="url(#linear-gradient-17)"/>
+          <path id="Tracé_20286" data-name="Tracé 20286" d="M2995.769,641.206v4.77l40.166-10.293-1.171-5.857Z" transform="translate(-2964.198 -603.783)" fill="url(#linear-gradient-18)"/>
+          <path id="Tracé_20287" data-name="Tracé 20287" d="M2998.306,638.742H2987.26a5.334,5.334,0,0,0-.527,1.21,3.512,3.512,0,0,0,3.034,4.453c2.231.234,5.813.337,8.54-.893Z" transform="translate(-2966.722 -601.321)" fill="url(#linear-gradient-18)"/>
+          <path id="Tracé_20288" data-name="Tracé 20288" d="M3035.171,632.542l-27.364-8.955s-3.431.847-5.941-.957v-2.975s3.766,1.283,5.941.725l1.339-1.9,29.906,8.9Z" transform="translate(-2962.516 -606.911)" fill="url(#linear-gradient-18)"/>
+          <g id="Groupe_1655" data-name="Groupe 1655" transform="translate(137.943 40.319)">
+            <path id="Tracé_20289" data-name="Tracé 20289" d="M3092.548,641.823l-8.368,18.884-4.184.5,8.535-20.191Z" transform="translate(-3078.908 -641.018)" fill="url(#linear-gradient-21)"/>
+            <path id="Tracé_20290" data-name="Tracé 20290" d="M3080.232,661.209l-1.088-2.008,7.95-18.183h1.674Z" transform="translate(-3079.144 -641.018)" fill="url(#linear-gradient-22)"/>
+            <path id="Tracé_20291" data-name="Tracé 20291" d="M3080.232,661.209l-1.088-2.008,7.95-18.183h1.674Z" transform="translate(-3079.144 -641.018)" opacity="0.8" fill="url(#linear-gradient-22)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <g id="Groupe_1656" data-name="Groupe 1656" transform="translate(121.489 14.345)">
+            <path id="Tracé_20292" data-name="Tracé 20292" d="M3076.7,621.285l-6.53,14.736-3.265.392,6.66-15.756Z" transform="translate(-3066.058 -620.657)" fill="url(#linear-gradient-24)"/>
+            <path id="Tracé_20293" data-name="Tracé 20293" d="M3067.091,636.413l-.849-1.567,6.2-14.189h1.306Z" transform="translate(-3066.242 -620.657)" fill="url(#linear-gradient-25)"/>
+            <path id="Tracé_20294" data-name="Tracé 20294" d="M3067.091,636.413l-.849-1.567,6.2-14.189h1.306Z" transform="translate(-3066.242 -620.657)" opacity="0.8" fill="url(#linear-gradient-25)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <rect id="Rectangle_1497" data-name="Rectangle 1497" width="4.971" height="4.477" transform="translate(86.311 39.847)" fill="url(#linear-gradient-27)"/>
+          <g id="Groupe_1657" data-name="Groupe 1657" transform="translate(84.633 20.482)">
+            <path id="Tracé_20295" data-name="Tracé 20295" d="M3064.12,634.107l-26.147-7.631,5.218-1.01,23.117,5.723Z" transform="translate(-3037.188 -625.467)" fill="url(#linear-gradient-28)"/>
+            <path id="Tracé_20296" data-name="Tracé 20296" d="M3064.291,633.889v3.2l-26.932-6.9.786-3.928Z" transform="translate(-3037.358 -625.248)" fill="url(#linear-gradient-29)"/>
+          </g>
+          <path id="Tracé_20297" data-name="Tracé 20297" d="M3041.485,644.325v1.62h-5.776a1.675,1.675,0,0,1-1.676-1.674v-3.433h1.955v2.89a.6.6,0,0,0,.6.6Z" transform="translate(-2953.638 -600.743)" fill="url(#linear-gradient-30)"/>
+          <path id="Tracé_20298" data-name="Tracé 20298" d="M3090.012,641.532l-38.995-11.38,7.782-1.506,34.476,8.535Z" transform="translate(-2948.961 -604.108)" fill="url(#linear-gradient-31)"/>
+          <path id="Tracé_20299" data-name="Tracé 20299" d="M3090.266,641.206v4.77L3050.1,635.683l1.171-5.857Z" transform="translate(-2949.214 -603.783)" fill="url(#linear-gradient-32)"/>
+          <path id="Tracé_20300" data-name="Tracé 20300" d="M3081.57,638.742h11.045a5.3,5.3,0,0,1,.528,1.21,3.514,3.514,0,0,1-3.035,4.453c-2.23.234-5.811.337-8.539-.893Z" transform="translate(-2940.531 -601.321)" fill="url(#linear-gradient-33)"/>
+          <g id="Groupe_1659" data-name="Groupe 1659" transform="translate(120.501 24.537)">
+            <path id="Tracé_20301" data-name="Tracé 20301" d="M3081.57,639.938c0,1.953,11.045,1.953,11.045,0v-5.523c0,.781-11.045.781-11.045,0Z" transform="translate(-3061.031 -627.051)" fill="url(#linear-gradient-34)"/>
+            <ellipse id="Ellipse_237" data-name="Ellipse 237" cx="5.523" cy="0.642" rx="5.523" ry="0.642" transform="translate(20.538 6.695)" fill="url(#linear-gradient-35)"/>
+            <path id="Tracé_20302" data-name="Tracé 20302" d="M3084.832,634.832c0,.3,2.718.3,2.718,0l-.459-4.351h-1.8Z" transform="translate(-3060.13 -628.138)" fill="url(#linear-gradient-36)"/>
+            <g id="Groupe_1658" data-name="Groupe 1658" transform="translate(0 0)">
+              <path id="Tracé_20303" data-name="Tracé 20303" d="M3117.587,628.894c.069.659-11.529,2.421-25.906,3.935s-26.086,2.208-26.157,1.549,11.529-2.42,25.906-3.935S3117.517,628.235,3117.587,628.894Z" transform="translate(-3065.465 -628.645)" fill="url(#radial-gradient-5)"/>
+              <path id="Tracé_20304" data-name="Tracé 20304" d="M3117.574,634.185c-.065.659-11.78.04-26.166-1.385s-26-3.112-25.931-3.772,11.78-.04,26.167,1.385S3117.64,633.525,3117.574,634.185Z" transform="translate(-3065.478 -628.612)" fill="url(#radial-gradient-6)"/>
+            </g>
+          </g>
+          <path id="Tracé_20305" data-name="Tracé 20305" d="M3007.57,618.773l2.8-1.339,29.736,8.724-2.633,1.517Z" transform="translate(-2960.942 -607.2)" fill="url(#linear-gradient-37)"/>
+          <path id="Tracé_20306" data-name="Tracé 20306" d="M3026.081,634.48v3.763l7.029,5.386.253-6.471Z" transform="translate(-2955.832 -602.498)" fill="url(#linear-gradient-38)"/>
+          <path id="Tracé_20307" data-name="Tracé 20307" d="M3026.081,634.48v3.763l7.029,5.386.253-6.471Z" transform="translate(-2955.832 -602.498)" opacity="0.8" fill="url(#linear-gradient-38)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Tracé_20308" data-name="Tracé 20308" d="M3041.961,653.2h-2.612a7.7,7.7,0,0,1-7.7-7.7l-.057-3.843h18.075l0,3.843A7.7,7.7,0,0,1,3041.961,653.2Z" transform="translate(-2954.314 -600.524)" fill="url(#linear-gradient-40)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Tracé_20309" data-name="Tracé 20309" d="M3043.356,652.193h-2.612a7.705,7.705,0,0,1-7.7-7.705l-.041-2.839h-1.411l.057,3.843a7.7,7.7,0,0,0,7.7,7.7h2.612a7.67,7.67,0,0,0,5.146-1.981A7.672,7.672,0,0,1,3043.356,652.193Z" transform="translate(-2954.314 -600.524)" fill="#fff" opacity="0.5" style="mix-blend-mode: overlay;isolation: isolate"/>
+          <ellipse id="Ellipse_238" data-name="Ellipse 238" cx="4.658" cy="3.671" rx="4.658" ry="3.671" transform="translate(84.051 43.035)" fill="url(#linear-gradient-27)"/>
+          <path id="Tracé_20310" data-name="Tracé 20310" d="M3044.974,647.27c0,1.583-1.628,2.867-3.637,2.867s-3.639-1.284-3.639-2.867,1.63-2.868,3.639-2.868S3044.974,645.686,3044.974,647.27Z" transform="translate(-2952.627 -599.76)" fill="url(#linear-gradient-42)"/>
+          <path id="Tracé_20311" data-name="Tracé 20311" d="M3043.679,647.088a2.646,2.646,0,1,1-2.573-2.028A2.35,2.35,0,0,1,3043.679,647.088Z" transform="translate(-2952.396 -599.578)" opacity="0.7" fill="url(#linear-gradient-43)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Tracé_20312" data-name="Tracé 20312" d="M3035.735,616.385l-4.855,3.074-.166,6.633,2.092,2.8Z" transform="translate(-2954.553 -607.486)" fill="url(#linear-gradient-44)"/>
+          <path id="Tracé_20313" data-name="Tracé 20313" d="M3050.218,632.542l27.363-8.955s3.432.847,5.941-.957v-2.975s-3.765,1.283-5.941.725l-1.339-1.9-29.906,8.9Z" transform="translate(-2950.25 -606.911)" fill="url(#linear-gradient-18)"/>
+          <path id="Tracé_20314" data-name="Tracé 20314" d="M3076.813,618.773l-2.8-1.339-29.736,8.724,2.634,1.517Z" transform="translate(-2950.818 -607.2)" fill="url(#linear-gradient-46)"/>
+          <path id="Tracé_20315" data-name="Tracé 20315" d="M3042.691,616.385l4.852,2.954.169,6.753-1.9,2.564Z" transform="translate(-2951.249 -607.486)" fill="url(#linear-gradient)"/>
+          <path id="Tracé_20316" data-name="Tracé 20316" d="M3052.527,633.235l-.351,5.858-6.371,4.881-.253-6.471Z" transform="translate(-2950.46 -602.841)" fill="url(#linear-gradient)"/>
+          <path id="Tracé_20317" data-name="Tracé 20317" d="M3052.527,633.235l-.351,5.858-6.371,4.881-.253-6.471Z" transform="translate(-2950.46 -602.841)" opacity="0.8" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Tracé_20318" data-name="Tracé 20318" d="M3047.4,623.99l6.471,3.236-.558,10.153-9.484,4.909,1.674-15.734Z" transform="translate(-2950.937 -605.393)" fill="url(#linear-gradient-50)"/>
+          <path id="Tracé_20319" data-name="Tracé 20319" d="M3049.665,645.975H3031.59l.777-19.976h16.515Z" transform="translate(-2954.314 -604.839)" fill="url(#linear-gradient-51)"/>
+          <path id="Tracé_20320" data-name="Tracé 20320" d="M3049.663,642.82h-18.075l.212-5.388,17.652-.021Z" transform="translate(-2954.314 -601.688)" opacity="0.8" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Groupe_1661" data-name="Groupe 1661" transform="translate(0 24.537)">
+            <path id="Tracé_20321" data-name="Tracé 20321" d="M2998.161,639.938c0,1.953-11.046,1.953-11.046,0v-5.523c0,.781,11.046.781,11.046,0Z" transform="translate(-2966.577 -627.051)" fill="url(#linear-gradient-53)"/>
+            <ellipse id="Ellipse_239" data-name="Ellipse 239" cx="5.523" cy="0.642" rx="5.523" ry="0.642" transform="translate(20.538 6.695)" fill="url(#linear-gradient)"/>
+            <path id="Tracé_20322" data-name="Tracé 20322" d="M2993.1,634.832c0,.3-2.72.3-2.72,0l.461-4.351h1.8Z" transform="translate(-2965.675 -628.138)" fill="url(#linear-gradient-55)"/>
+            <g id="Groupe_1660" data-name="Groupe 1660" transform="translate(0 0)">
+              <path id="Tracé_20323" data-name="Tracé 20323" d="M2971.023,628.894c-.069.659,11.529,2.421,25.906,3.935s26.088,2.208,26.156,1.549-11.529-2.42-25.905-3.935S2971.092,628.235,2971.023,628.894Z" transform="translate(-2971.023 -628.645)" fill="url(#radial-gradient-5)"/>
+              <path id="Tracé_20324" data-name="Tracé 20324" d="M2971.043,634.185c.065.659,11.78.04,26.166-1.385s25.995-3.112,25.93-3.772-11.781-.04-26.166,1.385S2970.977,633.525,2971.043,634.185Z" transform="translate(-2971.017 -628.612)" fill="url(#radial-gradient-6)"/>
+            </g>
+          </g>
+          <path id="Tracé_20325" data-name="Tracé 20325" d="M3032.115,623.99l-6.471,3.236.558,10.153,7.241,3.761.567-14.586Z" transform="translate(-2955.953 -605.393)" fill="url(#linear-gradient-56)"/>
+          <path id="Tracé_20326" data-name="Tracé 20326" d="M3048.749,629.332h-16.514a22.523,22.523,0,0,1,3.681-15.4h9.151A22.48,22.48,0,0,1,3048.749,629.332Z" transform="translate(-2954.182 -608.163)" fill="url(#linear-gradient-57)"/>
+          <path id="Tracé_20327" data-name="Tracé 20327" d="M3048.749,629.332h-16.514a22.523,22.523,0,0,1,3.681-15.4h9.151A22.48,22.48,0,0,1,3048.749,629.332Z" transform="translate(-2954.182 -608.163)" fill="#c1c2c4" opacity="0.6" style="mix-blend-mode: overlay;isolation: isolate"/>
+          <path id="Tracé_20328" data-name="Tracé 20328" d="M3041.748,623.33c0,.5-1.134.9-2.531.9s-2.531-.4-2.531-.9,1.133-.9,2.531-.9S3041.748,622.832,3041.748,623.33Z" transform="translate(-2952.906 -605.821)" opacity="0.8" fill="url(#linear-gradient-58)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Groupe_1662" data-name="Groupe 1662" transform="translate(96.264 34.893)">
+            <path id="Tracé_20329" data-name="Tracé 20329" d="M3050.045,637.487a1.992,1.992,0,1,1-2.424-.457A1.77,1.77,0,0,1,3050.045,637.487Z" transform="translate(-3046.471 -636.76)" fill="url(#linear-gradient-59)"/>
+            <path id="Tracé_20330" data-name="Tracé 20330" d="M3049.7,637.839a1.555,1.555,0,1,1-1.891-.357A1.38,1.38,0,0,1,3049.7,637.839Z" transform="translate(-3046.349 -636.619)" fill="url(#linear-gradient-60)"/>
+            <path id="Tracé_20331" data-name="Tracé 20331" d="M3049.218,637.963a1.1,1.1,0,1,1-1.339-.253A.977.977,0,0,1,3049.218,637.963Z" transform="translate(-3046.257 -636.539)" opacity="0.7" fill="url(#linear-gradient-61)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+          <g id="Groupe_1663" data-name="Groupe 1663" transform="translate(72.645 34.893)">
+            <path id="Tracé_20332" data-name="Tracé 20332" d="M3028.1,637.487a1.991,1.991,0,1,0,2.422-.457A1.768,1.768,0,0,0,3028.1,637.487Z" transform="translate(-3027.958 -636.76)" fill="url(#linear-gradient-62)"/>
+            <path id="Tracé_20333" data-name="Tracé 20333" d="M3028.265,637.839a1.556,1.556,0,1,0,1.893-.357A1.382,1.382,0,0,0,3028.265,637.839Z" transform="translate(-3027.904 -636.619)" fill="url(#linear-gradient-63)"/>
+            <path id="Tracé_20334" data-name="Tracé 20334" d="M3028.566,637.963a1.1,1.1,0,1,0,1.337-.253A.976.976,0,0,0,3028.566,637.963Z" transform="translate(-3027.812 -636.539)" opacity="0.7" fill="url(#linear-gradient-64)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

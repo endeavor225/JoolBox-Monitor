@@ -1,0 +1,14 @@
+# Use postgres/example user/password credentials
+version: '3.1'
+
+services:
+
+  joolbox-front:
+    image: joolbox-monitor:0.0.1
+    restart: always
+    ports:
+      - 9002:9002
+    volumes:
+      - "/Users/abrahamkone/Jool/JoolBox-Monitor-Assets/vertical-slices:/code/vertical-slices"
+      - "/Users/abrahamkone/Jool/JoolBox-Monitor-Assets/media:/code/media"
+

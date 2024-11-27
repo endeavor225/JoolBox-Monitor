@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.287" y1="0.383" x2="0.896" y2="0.826" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#55aaa0"/>
+      <stop offset="0.864" stop-color="#55aaa0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#55aaa0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Rayon-Action" transform="translate(1635.045 -768.156)">
+    <path id="Tracé_19379" data-name="Tracé 19379" d="M-1625.045,770.156a8.01,8.01,0,0,1,8,8,8.01,8.01,0,0,1-8,8,8.009,8.009,0,0,1-8-8,8.009,8.009,0,0,1,8-8m0-2a10,10,0,0,0-10,10,10,10,0,0,0,10,10,10,10,0,0,0,10-10,10,10,0,0,0-10-10Z" transform="translate(0)" fill="#55aaa0"/>
+    <path id="Tracé_19380" data-name="Tracé 19380" d="M-1625.223,770.567a1.021,1.021,0,0,0-.23-.117,1.218,1.218,0,0,0-.156-.037c-.021-.007-.042-.017-.062-.024l0,.014a1,1,0,0,0-1.049.67l-1.984,5.8c-.07,1.054,3.06,7.423,3.06,7.423a7.139,7.139,0,0,0,5.42-6.923C-1620.228,774.442-1622.626,771.691-1625.223,770.567Z" transform="translate(2.716 0.957)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

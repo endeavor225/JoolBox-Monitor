@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="dashboard" transform="translate(-75 -220)">
+    <g id="dashboard-2" data-name="dashboard" transform="translate(75 220)">
+      <ellipse id="Ellipse_195" data-name="Ellipse 195" cx="5.544" cy="5.574" rx="5.544" ry="5.574" transform="translate(0 0.078)" fill="#fff"/>
+      <rect id="Rectangle_1257" data-name="Rectangle 1257" width="13.464" height="11.226" rx="2" transform="translate(13.119 0)" fill="#fff"/>
+      <rect id="Rectangle_1258" data-name="Rectangle 1258" width="16.881" height="16.972" rx="2" transform="translate(13.119 13.027)" fill="#fff"/>
+      <rect id="Rectangle_1259" data-name="Rectangle 1259" width="11.088" height="14.761" rx="2" transform="translate(0 13.027)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
